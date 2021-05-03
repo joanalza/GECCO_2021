@@ -1,6 +1,6 @@
 # TOWARDS THE LANDSCAPE ROTATION AS A PERTURBATION STRATEGY ON THE QUADRATIC ASSIGNMENT PROBLEM
 
-##Joan Alza, Mark Bartlett, Josu Ceberio, John McCall
+## Joan Alza, Mark Bartlett, Josu Ceberio, John McCall
 
 This repository contains the code and results of the paper "Towards the Landscape Rotation As a Perturbation Strategy on the Quadratic Assignment Problem", published on the workshop "Evolutionary Computation for Permutation Problems" on GECCO'21.
 
